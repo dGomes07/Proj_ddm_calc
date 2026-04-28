@@ -1,1 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string-array name="materias">
+        <item>Matemática</item>
+        <item>Português</item>
+        <item>Geografia</item>
+        <item>História</item>
+        <item>Inglês</item>
+    </string-array>
+</resources>
 
