@@ -6,6 +6,12 @@
     android:orientation="vertical"
     android:padding="20dp">
 
+
+    <Spinner
+        android:id="@+id/spinnerMateria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
     <EditText
         android:id="@+id/notaP1"
         android:hint="Insira a nota da Prova 1"
